@@ -420,7 +420,7 @@ Backtesting results (2020-2024) across strategy types:
 
 ## 🤝 Contact & Attribution
 
-**Author**: [Your Name]  
+**Author**: shufwdcarryroll 
 **Purpose**: Research framework for portfolio demonstration  
 **Status**: Research complete, production-ready code  
 **Date**: February 2026  
